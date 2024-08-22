@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\WeatherForecastMejorado\WeatherForecastMejorado\bin\Debug\net8.0\WeatherForecastMejorado.exe
+C:\Users\Usuario\source\repos\WeatherForecastMejorado\WeatherForecastMejorado\bin\Debug\net8.0\WeatherForecastMejorado.deps.json
+C:\Users\Usuario\source\repos\WeatherForecastMejorado\WeatherForecastMejorado\bin\Debug\net8.0\WeatherForecastMejorado.runtimeconfig.json
+C:\Users\Usuario\source\repos\WeatherForecastMejorado\WeatherForecastMejorado\bin\Debug\net8.0\WeatherForecastMejorado.dll
+C:\Users\Usuario\source\repos\WeatherForecastMejorado\WeatherForecastMejorado\bin\Debug\net8.0\WeatherForecastMejorado.pdb
+C:\Users\Usuario\source\repos\WeatherForecastMejorado\WeatherForecastMejorado\obj\Debug\net8.0\WeatherForecastMejorado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\WeatherForecastMejorado\WeatherForecastMejorado\obj\Debug\net8.0\WeatherForecastMejorado.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\WeatherForecastMejorado\WeatherForecastMejorado\obj\Debug\net8.0\WeatherForecastMejorado.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\WeatherForecastMejorado\WeatherForecastMejorado\obj\Debug\net8.0\WeatherForecastMejorado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\WeatherForecastMejorado\WeatherForecastMejorado\obj\Debug\net8.0\WeatherForecastMejorado.dll
+C:\Users\Usuario\source\repos\WeatherForecastMejorado\WeatherForecastMejorado\obj\Debug\net8.0\refint\WeatherForecastMejorado.dll
+C:\Users\Usuario\source\repos\WeatherForecastMejorado\WeatherForecastMejorado\obj\Debug\net8.0\WeatherForecastMejorado.pdb
+C:\Users\Usuario\source\repos\WeatherForecastMejorado\WeatherForecastMejorado\obj\Debug\net8.0\WeatherForecastMejorado.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\WeatherForecastMejorado\WeatherForecastMejorado\obj\Debug\net8.0\ref\WeatherForecastMejorado.dll
